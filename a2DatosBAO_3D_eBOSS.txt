@@ -1,0 +1,6 @@
+Survey	z	DA/rd	DA/rd_err	References
+BOSSDR12	0.32	6.5986	0.1337	Gil-Marın et al.(2017)
+BOSSDR12	0.57	9.389	0.103	Gil-Marın et al.(2017)
+eBOSSDR16Q	1.48	12.18	0.32	Houetal.(2020)
+Lyα-FeBOSSDR16	2.334	11.25	0.345	du Mas des Bourboux et al.(2020)
+

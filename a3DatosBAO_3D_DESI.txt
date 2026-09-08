@@ -1,0 +1,6 @@
+Survey	z	DA/rd	DA/rd_err	References
+LRG1DESIY1	0.51	9.02	0.17	Adameetal.(2024a)
+LRG2DESIY1	0.71	9.85	0.19	Adameetal.(2024a)
+LRG3+ELG1DESIY1	0.93	11.25	0.16	Adameetal.(2024a)
+ELG2DESIY1	1.32	11.98	0.30	Adameetal.(2024a)
+Lyα-FDESIY1	2.33	11.92	0.29	Adameetal.(2024b)
